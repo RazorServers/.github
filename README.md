@@ -1,4 +1,5 @@
 Contributing
+
 We welcome contributions from the community to help us improve our projects. If you would like to contribute, please follow the guidelines outlined in the respective repositories. We appreciate bug reports, feature suggestions, code contributions, and documentation improvements.
 
 License
